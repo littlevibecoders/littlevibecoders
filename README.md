@@ -19,7 +19,7 @@ Each project from the channel gets its own repo, with:
 
 | Project | What it does | Board |
 |---|---|---|
-| 🎄 [Christmas Countdown](https://github.com/littlevibecoders/esp32-christmas-countdown) | A round screen that counts the days, hours and minutes to Christmas. [Install it from your browser!](https://littlevibecoders.github.io/esp32-christmas-countdown/) | Waveshare ESP32-S3 1.43" AMOLED |
+| 🎄 [Christmas Countdown](https://github.com/littlevibecoders/esp32-christmas-countdown) | A round screen that counts the days, hours and minutes to Christmas. [Install it from your browser!](https://littlevibecoders.github.io/esp32-christmas-countdown/) 📺 [Watch the video](https://youtu.be/CF8-zAu45yo) | Waveshare ESP32-S3 1.43" AMOLED |
 
 ## 👪 For grown-ups
 
