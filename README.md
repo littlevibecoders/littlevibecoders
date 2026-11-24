@@ -20,6 +20,7 @@ Each project from the channel gets its own repo, with:
 | Project | What it does | Board |
 |---|---|---|
 | 🎄 [Christmas Countdown](https://github.com/littlevibecoders/esp32-christmas-countdown) | A round screen that counts the days, hours and minutes to Christmas. [Install it from your browser!](https://littlevibecoders.github.io/esp32-christmas-countdown/) 📺 [Watch the video](https://youtu.be/CF8-zAu45yo) | Waveshare ESP32-S3 1.43" AMOLED |
+| 🐰 [Peter Rabbit Game Computer](https://github.com/littlevibecoders/raspberry-pi-peter-rabbit-game) | A touchscreen computer built from a Raspberry Pi, plus a hide-and-seek game made by talking to AI. [Play it in your browser!](https://littlevibecoders.github.io/raspberry-pi-peter-rabbit-game/) | Raspberry Pi 4 + 7" touchscreen |
 
 ## 👪 For grown-ups
 
